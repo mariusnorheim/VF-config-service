@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0fb6b66-66b9-4416-a0d9-9b893fa5e72c": {
+      "ProjectGuid": "e0fb6b66-66b9-4416-a0d9-9b893fa5e72c",
+      "DisplayName": "VF-config-service",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
